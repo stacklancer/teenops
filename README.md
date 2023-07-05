@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Welcome to My GitHub! I'm Your Tech Ally & Solution Architect 💻</h1>
+<h1 align="center">🌟 Welcome to My GitHub! I'm Your Tech & Solution Architect 💻</h1>
 
 <p align="center">
   I'm a fervent software engineer, providing top-tier solutions with a microscopic attention to detail. My playground includes cutting-edge technology stacks, meticulous QA testing, and reliable AWS DevOps.
