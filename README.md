@@ -1,69 +1,59 @@
-### Hi there 👋
+<h1 align="center">Hello, World! 👋</h1>
 
-<!--
-**teenops/teenops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">I'm a Passionate Developer 💻</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Committed to delivering top-tier quality work with meticulous attention to detail, I have expertise in a variety of technology stacks, QA testing, and AWS DevOps.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hello, world! 👋
+<h3 align="center">🔧 My Technical Skills:</h3>
 
-I'm a passionate developer 💻, delivering top-tier quality work with a meticulous attention to detail. I'm proficient in an array of technology stacks, QA testing, and AWS DevOps.
+<p align="center">
+  <code>ReactJS</code> |
+  <code>AngularJS</code> |
+  <code>NodeJS</code> |
+  <code>HTML/CSS</code> |
+  <code>Full Stack Development</code> |
+  <code>Laravel</code> |
+  <code>PHP</code> |
+  <code>QA Testing</code> |
+  <code>AWS DevOps</code>
+</p>
 
-## 🔧 My Technical Skills:
+<h3 align="center">🎯 My Expertise:</h3>
 
-- 🟢 ReactJS
-- 🔵 AngularJS
-- 🟡 NodeJS
-- 🟣 HTML/CSS
-- 🟠 Full Stack Development
-- 🔴 Laravel
-- 🟤 PHP
-- 🔵 QA Testing
-- 🟢 AWS DevOps
+1. **Front-End Development:** I create visually pleasing and responsive web applications with ReactJS and AngularJS ensuring a seamless user experience.
+2. **Back-End Development:** My expertise in NodeJS, Laravel, and PHP allows me to build robust, scalable server-side applications with seamless front-end integration.
+3. **Full Stack Development:** I efficiently manage both front-end and back-end tasks, improving project streamlining and reducing development time.
+4. **HTML/CSS:** I leverage HTML5, CSS3, and contemporary web design techniques to create elegant web designs and layouts.
+5. **API Integration:** Enhancing web applications by skillfully integrating APIs and third-party services for improved functionality and user experience.
+6. **QA Testing:** Employing a variety of testing methodologies, I ensure high performance and top-notch quality of your applications.
+7. **AWS DevOps:** As an AWS DevOps professional, I proficiently administer a range of AWS services and developer tools, including Configuration Management tools, CI/CD pipelines, Docker, Kubernetes, and more.
 
-## 🎯 My Expertise:
+<h3 align="center">📌 What Sets Me Apart:</h3>
 
-1️⃣ **Front-End Development:** With ReactJS and AngularJS, I create visually pleasing and responsive web applications ensuring a seamless user experience.
+- 🟢 Adaptability and a constant learning curve
+- 🟢 Superior communication and interpersonal skills
+- 🟢 Precise and detail-oriented approach
+- 🟢 Proficient time management and deadline adherence
+- 🟢 Proactive problem-solving and debugging
 
-2️⃣ **Back-End Development:** My expertise in NodeJS, Laravel, and PHP enable me to build robust, scalable server-side applications offering seamless front-end integration.
+<h3 align="center">🔧 Tools & Technologies:</h3>
 
-3️⃣ **Full Stack Development:** As a full stack developer, I efficiently manage both front-end and back-end tasks, reducing development time and improving project streamlining.
+<p align="center">
+  <code>JavaScript (ES6+)</code> |
+  <code>TypeScript</code> |
+  <code>Git Version Control</code> |
+  <code>Express.js</code> |
+  <code>RESTful APIs</code> |
+  <code>Responsive Design</code> |
+  <code>Web Accessibility</code> |
+  <code>Unit Testing</code> |
+  <code>Databases: MySQL, MongoDB, PostgreSQL</code>
+</p>
 
-4️⃣ **HTML/CSS:** Leveraging HTML5, CSS3, and contemporary web design techniques to create elegant web designs and layouts.
+<h3 align="center">👥 Let's Connect and Build Together!</h3>
 
-5️⃣ **API Integration:** Enhancing web applications by skillfully integrating APIs and third-party services, improving functionality and user experience.
-
-6️⃣ **QA Testing:** I employ a variety of testing methodologies to ensure high performance and top-notch quality of your applications.
-
-7️⃣ **AWS DevOps:** As an AWS DevOps professional, I administer a range of AWS services and developer tools. My proficiency extends to Configuration Management tools, CI/CD pipelines, Docker, Kubernetes, and monitoring and alarming production environments.
-
-## 📌 What Sets Me Apart?
-
-- ✅ Adaptability and a constant learning curve
-- ✅ Superior communication and interpersonal skills
-- ✅ Precise and detail-oriented approach
-- ✅ Proficient time management and deadline adherence
-- ✅ Proactive problem-solving and debugging
-
-## 🔧 Tools & Technologies:
-
-- 1️⃣ JavaScript (ES6+)
-- 2️⃣ TypeScript
-- 3️⃣ Git Version Control
-- 4️⃣ Express.js
-- 5️⃣ RESTful APIs
-- 6️⃣ Responsive Design
-- 7️⃣ Web Accessibility
-- 8️⃣ Unit Testing
-- 9️⃣ Databases: MySQL, MongoDB, PostgreSQL
-
-Ready to collaborate and help shape the future of your digital endeavors. Let's build a strategic roadmap towards success together! 🚀
+<p align="center">
+  I'm ready to collaborate and help shape the future of your digital endeavors. Let's build a strategic roadmap towards success together! 🚀
+</p>
