@@ -56,3 +56,6 @@
 <p align="center">
   Ready to collaborate and drive the future of tech? Let's connect, co-create, and carve a roadmap towards success! 🚀
 </p>
+
+
+[![An image of @teenops's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/teenops)](https://holopin.io/@teenops)
